@@ -1,0 +1,6 @@
+spring:
+  application:
+    name: topHitsSpotify
+
+application:
+  dataset-path: 'classpath:resources/songs_normalize.csv'
